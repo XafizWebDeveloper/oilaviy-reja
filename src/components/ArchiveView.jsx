@@ -151,12 +151,12 @@ export default function ArchiveView({ tasks, members, onRestoreTask, onDeleteTas
       }}>
         <span>Ишлаб чиқувчи:</span>
         <a 
-          href="https://t.me/your_telegram_channel" 
+          href="https://t.me/Rasulov_Xafiz" 
           target="_blank" 
           rel="noopener noreferrer" 
           style={{ color: 'var(--accent-purple)', fontWeight: 'bold', textDecoration: 'none' }}
         >
-          Телеграм
+          Хафиз Расулов
         </a>
       </footer>
 

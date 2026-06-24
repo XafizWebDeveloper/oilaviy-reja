@@ -123,7 +123,7 @@ export default function TaskForm({ members, onAddTask }) {
           <input
             type="text"
             className="text-input"
-            placeholder="Масалан: Июль ойида компот қилиш @оилам (ёки Душанба 05:00 югуриш)"
+            placeholder="Масалан: @Ўзим Душанба 05:00 югуриш"
             value={inputText}
             onChange={(e) => setInputText(e.target.value)}
           />
